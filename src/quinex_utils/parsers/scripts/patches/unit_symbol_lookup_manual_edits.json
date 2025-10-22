@@ -1,0 +1,135 @@
+{
+    "added": {
+        "M ⊙": [
+            "http://qudt.org/vocab/unit/SolarMass"
+        ],
+        "M 🜨": [
+            "http://qudt.org/vocab/unit/EarthMass"
+        ],
+        "M ⊕": [
+            "http://qudt.org/vocab/unit/EarthMass"
+        ],
+        "bpm": [
+            "http://qudt.org/vocab/unit/BEAT-PER-MIN"
+        ],
+        "M": [
+            "http://qudt.org/vocab/unit/MOL-PER-L"
+        ],
+        "MMBtu": [
+            "http://qudt.org/vocab/unit/MegaBTU_IT"
+        ],
+        "MBtu": [
+            "http://qudt.org/vocab/unit/KiloBTU_IT"
+        ],
+        "mmBTU": [
+            "http://qudt.org/vocab/unit/MegaBTU_IT"
+        ],
+        "mBTU": [
+            "http://qudt.org/vocab/unit/KiloBTU_IT"
+        ],
+        "TW el": [
+            "http://qudt.org/PLACEHOLDER_TeraW_EL"
+        ],
+        "GW el": [
+            "http://qudt.org/PLACEHOLDER_GigaW_EL"
+        ],
+        "MW el": [
+            "http://qudt.org/PLACEHOLDER_MegaW_EL"
+        ],
+        "kW el": [
+            "http://qudt.org/PLACEHOLDER_KiloW_EL"
+        ],
+        "¢": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "⊄": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "￠": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "c": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "ct": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "c€": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "USc": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "oC": [
+            "http://qudt.org/vocab/unit/DEG_C"
+        ],
+        "o C": [
+            "http://qudt.org/vocab/unit/DEG_C"
+        ],
+        "′′": [
+            "http://qudt.org/vocab/unit/ARCSEC"
+        ],
+        "mmols": [
+            "http://qudt.org/vocab/unit/MilliMOL"
+        ],
+        "mm square": [
+            "http://qudt.org/vocab/unit/MilliM2"
+        ],
+        "m square": [
+            "http://qudt.org/vocab/unit/M2"
+        ],
+        "mm cubic": [
+            "http://qudt.org/vocab/unit/MilliM3"
+        ],
+        "m cubic": [
+            "http://qudt.org/vocab/unit/M3"
+        ],
+        "PH": [
+            "http://qudt.org/vocab/unit/PH"
+        ],
+        "RAD": [
+            "http://qudt.org/vocab/unit/RAD"
+        ],
+        "mK": [
+            "http://qudt.org/vocab/unit/MilliK"
+        ],
+        "µK": [
+            "http://qudt.org/PLACEHOLDER_MicroK"
+        ],
+        "px": [
+            "http://qudt.org/vocab/unit/PIXEL_COUNT"
+        ],
+        "kOe": [
+            "http://qudt.org/PLACEHOLDER_KiloOERSTED"
+        ],
+        "M Jup": [
+            "http://qudt.org/PLACEHOLDER_JupiterMass"
+        ],
+        "MJup": [
+            "http://qudt.org/PLACEHOLDER_JupiterMass"
+        ],
+        "M♃": [
+            "http://qudt.org/PLACEHOLDER_JupiterMass"
+        ],
+        "MJ": [
+            "http://qudt.org/PLACEHOLDER_JupiterMass"
+        ],
+        "ATG": [
+            "http://qudt.org/PLACEHOLDER_ATG"
+        ],
+        "atg": [
+            "http://qudt.org/PLACEHOLDER_ATG"
+        ],
+        "Gb": [
+            "http://qudt.org/vocab/unit/GigaBIT"
+        ],
+        "Gbit": [
+            "http://qudt.org/vocab/unit/GigaBIT"
+        ]
+    },
+    "removed": {
+        "¢": [
+            "http://qudt.org/vocab/currency/CAD"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+**.log
+**.egg-info
+**/__pycache__
+**/.vscode
+**/.ipynb_checkpoints
+build/*
+logs/*
+.snakemake/*
+notes.md
+todo.md
+!*.gitkeep
+environment*.yml
+src/quinex_utils/static_resources/unit_ontologies/*
+benchmark/quantity_parser/data/grobid-quantities/quantities/*
+benchmark/quantity_parser/eval_on_grobid_quantities_data_results.json
+src/quinex_utils/parsers/scripts/raw_data/*
+src/quinex_utils/parsers/static_resources/ambiguous_unit_priorities_raw.json

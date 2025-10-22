@@ -1,0 +1,1140 @@
+{
+    "added": {
+        "beats per minute": [
+            "http://qudt.org/vocab/unit/BEAT-PER-MIN"
+        ],
+        "beats per min": [
+            "http://qudt.org/vocab/unit/BEAT-PER-MIN"
+        ],
+        "beats/minute": [
+            "http://qudt.org/vocab/unit/BEAT-PER-MIN"
+        ],
+        "beats/min": [
+            "http://qudt.org/vocab/unit/BEAT-PER-MIN"
+        ],
+        "wt.%": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_MASS"
+        ],
+        "wt%": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_MASS"
+        ],
+        "% w/w": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_MASS"
+        ],
+        "vol.%": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_VOL"
+        ],
+        "vol%": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_VOL"
+        ],
+        "mol.%": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_MOL"
+        ],
+        "mol%": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_MOL"
+        ],
+        "% HHV": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_HHV"
+        ],
+        "% LHV": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_LHV"
+        ],
+        "% (HHV)": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_HHV"
+        ],
+        "% (LHV)": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_LHV"
+        ],
+        "cent": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "cents": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "pence": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "penny": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "pennies": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "pfennig": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "penning": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "centavo": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "dollar cent": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "$ cent": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "us cents": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "euro cent": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "€ cent": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "chinese fen": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "denier": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "céntimos": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "haléřů": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "fillér": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "eyrir": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "aurar": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "sen": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "øre": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "jeon": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "öre": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "pfeniga": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "thebe": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "stotinki": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "стотинки": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "fēn ": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "分": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "lipa": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "piastres": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "penni ": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "penn": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "bututs": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "pesewas": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "agorot": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "avos": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "deni": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "tambala": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "möngö": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "paisa": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "paise": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "toea": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "groszy": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "grosz": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "dirhams": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "bani": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "kopeks": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "halalas": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "paras": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "Rappen": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "centime": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "centimes": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "centesimi": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "raps": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "satang": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "kuruş": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "fils": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "kopiykas": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "ngwee": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "centesimo": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "cêntimo": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "cêntimos": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "céntimo": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "stotin": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "stotini": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "stotina": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "stotinov": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "sentti": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "senttiä": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "λεπτό": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "leptó": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "λεπτά": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "leptá": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "σεντ": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "centas": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "centésimo": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "centimo": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "santim": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "santīms": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "senti": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "sent": [
+            "http://qudt.org/PLACEHOLDER_CENT"
+        ],
+        "jupiter mass": [
+            "http://qudt.org/PLACEHOLDER_JupiterMass"
+        ],
+        "jovian mass": [
+            "http://qudt.org/PLACEHOLDER_JupiterMass"
+        ],
+        "kilo-oersted": [
+            "http://qudt.org/PLACEHOLDER_KiloOERSTED"
+        ],
+        "kilo oersted": [
+            "http://qudt.org/PLACEHOLDER_KiloOERSTED"
+        ],
+        "kilooersted": [
+            "http://qudt.org/PLACEHOLDER_KiloOERSTED"
+        ],
+        "millikelvin": [
+            "http://qudt.org/vocab/unit/MilliK"
+        ],
+        "milli-kelvin": [
+            "http://qudt.org/vocab/unit/MilliK"
+        ],
+        "pixel": [
+            "http://qudt.org/vocab/unit/PIXEL_COUNT"
+        ],
+        "square arcminutes": [
+            "http://qudt.org/PLACEHOLDER_ARCMIN2"
+        ],
+        "gauge pressure": [
+            "http://qudt.org/PLACEHOLDER_ATG"
+        ],
+        "percentage by mass": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_MASS"
+        ],
+        "percentage by weight": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_MASS"
+        ],
+        "% by mass": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_MASS"
+        ],
+        "% by weight": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_MASS"
+        ],
+        "parts in weight": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_MASS"
+        ],
+        "parts by weight": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_MASS"
+        ],
+        "% by volume": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_VOL"
+        ],
+        "% v/v": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_VOL"
+        ],
+        "percentage by volume": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_VOL"
+        ],
+        "molar percentage": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_MOL"
+        ],
+        "mole percent": [
+            "http://qudt.org/PLACEHOLDER_PERCENT_BY_MOL"
+        ],
+        "gigabit": [
+            "http://qudt.org/vocab/unit/GigaBIT"
+        ],
+        "decade": [
+            "http://qudt.org/vocab/unit/DECADE"
+        ],
+        "century": [
+            "http://qudt.org/PLACEHOLDER_CENTURY"
+        ],
+        "beat": [
+            "http://qudt.org/vocab/unit/HeartBeat"
+        ],
+        "kwh": [
+            "http://qudt.org/vocab/unit/KiloW-HR"
+        ],
+        "kw-h": [
+            "http://qudt.org/vocab/unit/KiloW-HR"
+        ]
+    },
+    "removed": {
+        "hecto": [
+            "http://qudt.org/vocab/unit/HR",
+            "http://qudt.org/vocab/unit/HR_Sidereal"
+        ],
+        "penny": [
+            "http://qudt.org/vocab/currency/GBP"
+        ],
+        "pence": [
+            "http://qudt.org/vocab/currency/GBP"
+        ],
+        "mexican centavo": [
+            "http://qudt.org/vocab/currency/MXN"
+        ],
+        "mev": [
+            "http://qudt.org/vocab/unit/MegaEV"
+        ],
+        "mbq": [
+            "http://qudt.org/vocab/unit/MegaBQ",
+            "http://qudt.org/vocab/unit/MilliBQ"
+        ],
+        "myr": [
+            "http://qudt.org/vocab/unit/MegaYR",
+            "http://qudt.org/vocab/currency/MYR"
+        ],
+        "mwh": [
+            "http://qudt.org/vocab/unit/MegaW-HR"
+        ],
+        "mvar": [
+            "http://qudt.org/vocab/unit/MegaV-A_Reactive"
+        ],
+        "mva": [
+            "http://qudt.org/vocab/unit/MegaV-A"
+        ],
+        "mpsi": [
+            "http://qudt.org/vocab/unit/MegaPSI"
+        ],
+        "mpa": [
+            "http://qudt.org/vocab/unit/MegaPA"
+        ],
+        "n/mm²": [
+            "http://qudt.org/vocab/unit/MegaPA",
+            "http://qudt.org/vocab/unit/N-PER-MilliM2"
+        ],
+        "mj/m³": [
+            "http://qudt.org/vocab/unit/MegaJ-PER-M3"
+        ],
+        "mhz": [
+            "http://qudt.org/vocab/unit/MegaHZ",
+            "http://qudt.org/vocab/unit/MilliHZ"
+        ],
+        "mj per kg": [
+            "http://qudt.org/vocab/unit/MegaJ-PER-KiloGM"
+        ],
+        "mj/kg": [
+            "http://qudt.org/vocab/unit/MegaJ-PER-KiloGM"
+        ],
+        "mj/m²": [
+            "http://qudt.org/vocab/unit/MegaJ-PER-M2"
+        ],
+        "mo s": [
+            "http://qudt.org/vocab/unit/MO"
+        ],
+        "mi i": [
+            "http://qudt.org/vocab/unit/MI"
+        ],
+        "m²k/w": [
+            "http://qudt.org/vocab/unit/M2-K-PER-W"
+        ],
+        "100 gram": [
+            "http://qudt.org/vocab/unit/HectoGM"
+        ],
+        "g·cm−3": [
+            "http://qudt.org/vocab/unit/GM-PER-CentiM3"
+        ],
+        "g/cc": [
+            "http://qudt.org/vocab/unit/GM-PER-CentiM3"
+        ],
+        "10^-7 joules, 10-7 joules": [
+            "http://qudt.org/vocab/unit/ERG"
+        ],
+        "a/rad": [
+            "http://qudt.org/vocab/unit/A-PER-RAD"
+        ],
+        "az usa hűtő- és klímatechnikai szakterületein használtják a ton of refrigeration(wd) („hűtési tonna”, tor) mértékegységet, kizárólag termodinamikai hűtési teljesítmény mérésére. 1 tor = 12 000 btu/h = 3517 watt.": [
+            "http://qudt.org/vocab/unit/TON_FG"
+        ],
+        "msv": [
+            "http://qudt.org/vocab/unit/MilliSV"
+        ],
+        "mrad": [
+            "http://qudt.org/vocab/unit/MilliRAD"
+        ],
+        "mpa·s": [
+            "http://qudt.org/vocab/unit/MilliPA-SEC"
+        ],
+        "mm h2o": [
+            "http://qudt.org/vocab/unit/MilliM_H2O"
+        ],
+        "mmh2o": [
+            "http://qudt.org/vocab/unit/MilliM_H2O"
+        ],
+        "mm wc": [
+            "http://qudt.org/vocab/unit/MilliM_H2O"
+        ],
+        "mm h20": [
+            "http://qudt.org/vocab/unit/MilliM_H2O"
+        ],
+        "mmwg": [
+            "http://qudt.org/vocab/unit/MilliM_H2O"
+        ],
+        "mm wg": [
+            "http://qudt.org/vocab/unit/MilliM_H2O"
+        ],
+        "mm hg": [
+            "http://qudt.org/vocab/unit/MilliM_HG"
+        ],
+        "mmhg": [
+            "http://qudt.org/vocab/unit/MilliM_HG"
+        ],
+        "mmwc": [
+            "http://qudt.org/vocab/unit/MilliM_H2O"
+        ],
+        "mmol/l": [
+            "http://qudt.org/vocab/unit/MilliMOL-PER-L"
+        ],
+        "mmol": [
+            "http://qudt.org/vocab/unit/MilliMOL"
+        ],
+        "mm²/s": [
+            "http://qudt.org/vocab/unit/MilliM2-PER-SEC"
+        ],
+        "mm/mn": [
+            "http://qudt.org/vocab/unit/MilliM-PER-MIN"
+        ],
+        "ml/l": [
+            "http://qudt.org/vocab/unit/MilliL-PER-L"
+        ],
+        "mgy": [
+            "http://qudt.org/vocab/unit/MilliGRAY",
+            "http://qudt.org/vocab/unit/MegaGRAY"
+        ],
+        "mg/m3": [
+            "http://qudt.org/vocab/unit/MilliGM-PER-M3"
+        ],
+        "mg/m³": [
+            "http://qudt.org/vocab/unit/MilliGM-PER-M3"
+        ],
+        "mg/m^3": [
+            "http://qudt.org/vocab/unit/MilliGM-PER-M3"
+        ],
+        "mg/kg": [
+            "http://qudt.org/vocab/unit/MilliGM-PER-KiloGM"
+        ],
+        "mg/l": [
+            "http://qudt.org/vocab/unit/MilliGM-PER-L"
+        ],
+        "mg.kg-1": [
+            "http://qudt.org/vocab/unit/MilliGM-PER-KiloGM"
+        ],
+        "mg/dl": [
+            "http://qudt.org/vocab/unit/MilliGM-PER-DeciL"
+        ],
+        "mas": [
+            "http://qudt.org/vocab/unit/MilliARCSEC"
+        ],
+        "mah": [
+            "http://qudt.org/vocab/unit/MilliA-HR"
+        ],
+        "ma⋅h": [
+            "http://qudt.org/vocab/unit/MilliA-HR"
+        ],
+        "ma h": [
+            "http://qudt.org/vocab/unit/MilliA-HR"
+        ],
+        "mil": [
+            "http://qudt.org/vocab/unit/MilLength",
+            "http://qudt.org/vocab/unit/MilliIN",
+            "http://qudt.org/vocab/unit/MilliM",
+            "http://qudt.org/vocab/unit/MilliRAD"
+        ],
+        "mil (length)": [
+            "http://qudt.org/vocab/unit/MilliIN"
+        ],
+        "mil of thickness": [
+            "http://qudt.org/vocab/unit/MilliIN"
+        ],
+        "mils": [
+            "http://qudt.org/vocab/unit/MilliIN",
+            "http://qudt.org/vocab/unit/MilliRAD"
+        ],
+        "mils of thickness": [
+            "http://qudt.org/vocab/unit/MilliIN"
+        ],
+        "mwb": [
+            "http://qudt.org/vocab/unit/MilliWB"
+        ],
+        "n/mm": [
+            "http://qudt.org/vocab/unit/N-PER-MilliM"
+        ],
+        "n m^2/kg^2": [
+            "http://qudt.org/vocab/unit/N-M2-PER-KiloGM2"
+        ],
+        "giga prefix": [
+            "http://qudt.org/vocab/unit/Gs"
+        ],
+        "giga": [
+            "http://qudt.org/vocab/unit/Gs"
+        ],
+        "giga-": [
+            "http://qudt.org/vocab/unit/Gs"
+        ],
+        "giga si prefix": [
+            "http://qudt.org/vocab/unit/Gs"
+        ],
+        "peta": [
+            "http://qudt.org/vocab/unit/POISE"
+        ],
+        "peta-": [
+            "http://qudt.org/vocab/unit/POISE"
+        ],
+        "peta prefix": [
+            "http://qudt.org/vocab/unit/POISE"
+        ],
+        "peta si prefix": [
+            "http://qudt.org/vocab/unit/POISE"
+        ],
+        "tera-": [
+            "http://qudt.org/vocab/unit/T"
+        ],
+        "tera prefix": [
+            "http://qudt.org/vocab/unit/T"
+        ],
+        "tera": [
+            "http://qudt.org/vocab/unit/T"
+        ],
+        "tera si prefix": [
+            "http://qudt.org/vocab/unit/T"
+        ],
+        "milli": [
+            "http://qudt.org/vocab/unit/M"
+        ],
+        "deci": [
+            "http://qudt.org/vocab/unit/DAY",
+            "http://qudt.org/vocab/unit/DAY_Sidereal"
+        ],
+        "micro": [
+            "http://qudt.org/vocab/unit/U"
+        ],
+        "atto": [
+            "http://qudt.org/vocab/unit/YR"
+        ],
+        "cgy": [
+            "http://qudt.org/vocab/unit/CentiGRAY"
+        ],
+        "cm/h": [
+            "http://qudt.org/vocab/unit/CentiM-PER-HR"
+        ],
+        "cm/s": [
+            "http://qudt.org/vocab/unit/CentiM-PER-SEC"
+        ],
+        "cm/s²": [
+            "http://qudt.org/vocab/unit/CentiM-PER-SEC2"
+        ],
+        "cm/s2": [
+            "http://qudt.org/vocab/unit/CentiM-PER-SEC2"
+        ],
+        "cm²/s": [
+            "http://qudt.org/vocab/unit/CentiM2-PER-SEC"
+        ],
+        "cmm": [
+            "http://qudt.org/vocab/unit/CentiM3"
+        ],
+        "cm³/d": [
+            "http://qudt.org/vocab/unit/CentiM3-PER-DAY"
+        ],
+        "cm3/d": [
+            "http://qudt.org/vocab/unit/CentiM3-PER-DAY"
+        ],
+        "cm³/h": [
+            "http://qudt.org/vocab/unit/CentiM3-PER-HR"
+        ],
+        "cm³/m³": [
+            "http://qudt.org/vocab/unit/CentiM3-PER-M3"
+        ],
+        "cm³/min": [
+            "http://qudt.org/vocab/unit/CentiM3-PER-MIN"
+        ],
+        "cmol": [
+            "http://qudt.org/vocab/unit/CentiMOL"
+        ],
+        "cst": [
+            "http://qudt.org/vocab/unit/CentiST"
+        ],
+        "dbm": [
+            "http://qudt.org/vocab/unit/DeciB_M"
+        ],
+        "dl/g": [
+            "http://qudt.org/vocab/unit/DeciL-PER-GM"
+        ],
+        "dm³/m³": [
+            "http://qudt.org/vocab/unit/DeciM3-PER-M3"
+        ],
+        "gib": [
+            "http://qudt.org/vocab/unit/GigaBIT"
+        ],
+        "gbit": [
+            "http://qudt.org/vocab/unit/GigaBIT"
+        ],
+        "gb/s": [
+            "http://qudt.org/vocab/unit/GigaBIT-PER-SEC"
+        ],
+        "gbit/s": [
+            "http://qudt.org/vocab/unit/GigaBIT-PER-SEC"
+        ],
+        "gbps": [
+            "http://qudt.org/vocab/unit/GigaBIT-PER-SEC"
+        ],
+        "gbits/s": [
+            "http://qudt.org/vocab/unit/GigaBIT-PER-SEC"
+        ],
+        "gbq": [
+            "http://qudt.org/vocab/unit/GigaBQ"
+        ],
+        "gbyte": [
+            "http://qudt.org/vocab/unit/GigaBYTE"
+        ],
+        "gev": [
+            "http://qudt.org/vocab/unit/GigaEV"
+        ],
+        "ghz": [
+            "http://qudt.org/vocab/unit/GigaHZ"
+        ],
+        "gpa": [
+            "http://qudt.org/vocab/unit/GigaPA"
+        ],
+        "gwh": [
+            "http://qudt.org/vocab/unit/GigaW-HR"
+        ],
+        "gw h": [
+            "http://qudt.org/vocab/unit/GigaW-HR"
+        ],
+        "gw·h": [
+            "http://qudt.org/vocab/unit/GigaW-HR"
+        ],
+        "kbit": [
+            "http://qudt.org/vocab/unit/KiloBIT"
+        ],
+        "kbit/s": [
+            "http://qudt.org/vocab/unit/KiloBIT-PER-SEC"
+        ],
+        "kb/s": [
+            "http://qudt.org/vocab/unit/KiloBIT-PER-SEC"
+        ],
+        "kbps": [
+            "http://qudt.org/vocab/unit/KiloBIT-PER-SEC"
+        ],
+        "kbq": [
+            "http://qudt.org/vocab/unit/KiloBQ"
+        ],
+        "kcd": [
+            "http://qudt.org/vocab/unit/KiloCD"
+        ],
+        "kev": [
+            "http://qudt.org/vocab/unit/KiloEV"
+        ],
+        "kgm²": [
+            "http://qudt.org/vocab/unit/KiloGM-M2"
+        ],
+        "kg/cm²": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-CentiM2"
+        ],
+        "kg/cm2": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-CentiM2",
+            "http://qudt.org/vocab/unit/KiloGM_F-PER-CentiM2"
+        ],
+        "kg/d": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-DAY"
+        ],
+        "kg/ha": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-HA"
+        ],
+        "kg/h": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-HR"
+        ],
+        "kg/l": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-L"
+        ],
+        "kg/m": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-M"
+        ],
+        "kg/(m h)": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-M-HR"
+        ],
+        "kg/(m s)": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-M-SEC"
+        ],
+        "kg/m²": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-M2"
+        ],
+        "kg/m^3": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-M3"
+        ],
+        "kg/m³": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-M3"
+        ],
+        "kg/m3": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-M3"
+        ],
+        "kg/min": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-MIN"
+        ],
+        "kg/mol": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-MOL"
+        ],
+        "kg/s": [
+            "http://qudt.org/vocab/unit/KiloGM-PER-SEC"
+        ],
+        "kg-f": [
+            "http://qudt.org/vocab/unit/KiloGM_F"
+        ],
+        "kgf": [
+            "http://qudt.org/vocab/unit/KiloGM_F"
+        ],
+        "kg-w": [
+            "http://qudt.org/vocab/unit/KiloGM_F"
+        ],
+        "kp/cm2": [
+            "http://qudt.org/vocab/unit/KiloGM_F-PER-CentiM2"
+        ],
+        "kgf/cm2": [
+            "http://qudt.org/vocab/unit/KiloGM_F-PER-CentiM2"
+        ],
+        "ksc": [
+            "http://qudt.org/vocab/unit/KiloGM_F-PER-CentiM2"
+        ],
+        "kgf/m2": [
+            "http://qudt.org/vocab/unit/KiloGM_F-PER-M2"
+        ],
+        "kgy": [
+            "http://qudt.org/vocab/unit/KiloGRAY"
+        ],
+        "khz": [
+            "http://qudt.org/vocab/unit/KiloHZ"
+        ],
+        "kj/kg": [
+            "http://qudt.org/vocab/unit/KiloJ-PER-KiloGM"
+        ],
+        "kj⋅kg⁻¹": [
+            "http://qudt.org/vocab/unit/KiloJ-PER-KiloGM"
+        ],
+        "kj/mol": [
+            "http://qudt.org/vocab/unit/KiloJ-PER-MOL"
+        ],
+        "kj mol^(-1)": [
+            "http://qudt.org/vocab/unit/KiloJ-PER-MOL"
+        ],
+        "kj mol⁻¹": [
+            "http://qudt.org/vocab/unit/KiloJ-PER-MOL"
+        ],
+        "kl/h": [
+            "http://qudt.org/vocab/unit/KiloL-PER-HR"
+        ],
+        "km/hr": [
+            "http://qudt.org/vocab/unit/KiloM-PER-HR"
+        ],
+        "kph": [
+            "http://qudt.org/vocab/unit/KiloM-PER-HR"
+        ],
+        "kmh": [
+            "http://qudt.org/vocab/unit/KiloM-PER-HR"
+        ],
+        "km/h": [
+            "http://qudt.org/vocab/unit/KiloM-PER-HR"
+        ],
+        "km/s": [
+            "http://qudt.org/vocab/unit/KiloM-PER-SEC"
+        ],
+        "kps": [
+            "http://qudt.org/vocab/unit/KiloM-PER-SEC"
+        ],
+        "kpa": [
+            "http://qudt.org/vocab/unit/KiloPA"
+        ],
+        "kwt": [
+            "http://qudt.org/vocab/unit/KiloW"
+        ],
+        "kw h": [
+            "http://qudt.org/vocab/unit/KiloW-HR"
+        ],
+        "kw-hr": [
+            "http://qudt.org/vocab/unit/KiloW-HR"
+        ],
+        "kw hr": [
+            "http://qudt.org/vocab/unit/KiloW-HR"
+        ],
+        "kw·hr": [
+            "http://qudt.org/vocab/unit/KiloW-HR"
+        ],
+        "kwhr": [
+            "http://qudt.org/vocab/unit/KiloW-HR"
+        ],
+        "kwh": [
+            "http://qudt.org/vocab/unit/KiloW-HR"
+        ],
+        "kw·h": [
+            "http://qudt.org/vocab/unit/KiloW-HR"
+        ],
+        "kwh/m²": [
+            "http://qudt.org/vocab/unit/KiloW-HR-PER-M2"
+        ],
+        "kwb": [
+            "http://qudt.org/vocab/unit/KiloWB"
+        ],
+        "kyr": [
+            "http://qudt.org/vocab/unit/KiloYR"
+        ],
+        "mbit": [
+            "http://qudt.org/vocab/unit/MegaBIT"
+        ],
+        "mb/s": [
+            "http://qudt.org/vocab/unit/MegaBIT-PER-SEC"
+        ],
+        "mbit/s": [
+            "http://qudt.org/vocab/unit/MegaBIT-PER-SEC"
+        ],
+        "mbps": [
+            "http://qudt.org/vocab/unit/MegaBIT-PER-SEC"
+        ],
+        "mw h": [
+            "http://qudt.org/vocab/unit/MegaW-HR"
+        ],
+        "mw·h": [
+            "http://qudt.org/vocab/unit/MegaW-HR"
+        ],
+        "ug/l": [
+            "http://qudt.org/vocab/unit/MicroGM-PER-L"
+        ],
+        "umol": [
+            "http://qudt.org/vocab/unit/MicroMOL"
+        ],
+        "us/cm": [
+            "http://qudt.org/vocab/unit/MicroS-PER-CentiM"
+        ],
+        "mcd": [
+            "http://qudt.org/vocab/unit/MilliCD"
+        ],
+        "mg/d": [
+            "http://qudt.org/vocab/unit/MilliGM-PER-DAY"
+        ],
+        "mg/min": [
+            "http://qudt.org/vocab/unit/MilliGM-PER-MIN"
+        ],
+        "ml/d": [
+            "http://qudt.org/vocab/unit/MilliL-PER-DAY"
+        ],
+        "ml/h": [
+            "http://qudt.org/vocab/unit/MilliL-PER-HR"
+        ],
+        "ml/kg": [
+            "http://qudt.org/vocab/unit/MilliL-PER-KiloGM"
+        ],
+        "ml/m³": [
+            "http://qudt.org/vocab/unit/MilliL-PER-M3"
+        ],
+        "ml/min": [
+            "http://qudt.org/vocab/unit/MilliL-PER-MIN"
+        ],
+        "ml/s": [
+            "http://qudt.org/vocab/unit/MilliL-PER-SEC"
+        ],
+        "mm/d": [
+            "http://qudt.org/vocab/unit/MilliM-PER-DAY"
+        ],
+        "mm/h": [
+            "http://qudt.org/vocab/unit/MilliM-PER-HR"
+        ],
+        "nbq": [
+            "http://qudt.org/vocab/unit/NanoBQ"
+        ],
+        "ng/l": [
+            "http://qudt.org/vocab/unit/NanoGM-PER-L"
+        ],
+        "ngy": [
+            "http://qudt.org/vocab/unit/NanoGRAY"
+        ],
+        "nmol": [
+            "http://qudt.org/vocab/unit/NanoMOL"
+        ],
+        "nsv": [
+            "http://qudt.org/vocab/unit/NanoSV"
+        ],
+        "pf/m": [
+            "http://qudt.org/vocab/unit/PicoFARAD-PER-M"
+        ],
+        "pg/l": [
+            "http://qudt.org/vocab/unit/PicoGM-PER-L"
+        ],
+        "pmol": [
+            "http://qudt.org/vocab/unit/PicoMOL"
+        ],
+        "tbq": [
+            "http://qudt.org/vocab/unit/TeraBQ"
+        ],
+        "tbyte": [
+            "http://qudt.org/vocab/unit/TeraBYTE"
+        ],
+        "thz": [
+            "http://qudt.org/vocab/unit/TeraHZ"
+        ],
+        "twh": [
+            "http://qudt.org/vocab/unit/TeraW-HR"
+        ],
+        "tw h": [
+            "http://qudt.org/vocab/unit/TeraW-HR"
+        ],
+        "tw·h": [
+            "http://qudt.org/vocab/unit/TeraW-HR"
+        ],
+        "bbl/d": [
+            "http://qudt.org/vocab/unit/BBL_US-PER-DAY"
+        ],
+        "bbl/day": [
+            "http://qudt.org/vocab/unit/BBL_US-PER-DAY"
+        ],
+        "c/kg": [
+            "http://qudt.org/vocab/unit/C-PER-KiloGM"
+        ],
+        "c/mol": [
+            "http://qudt.org/vocab/unit/C-PER-MOL"
+        ],
+        "cd/m²": [
+            "http://qudt.org/vocab/unit/CD-PER-M2"
+        ],
+        "ev/m": [
+            "http://qudt.org/vocab/unit/EV-PER-M"
+        ],
+        "ft/s": [
+            "http://qudt.org/vocab/unit/FT-PER-SEC"
+        ],
+        "ft/s²": [
+            "http://qudt.org/vocab/unit/FT-PER-SEC2"
+        ],
+        "ft/s2": [
+            "http://qudt.org/vocab/unit/FT-PER-SEC2"
+        ],
+        "ft3/s": [
+            "http://qudt.org/vocab/unit/FT3-PER-SEC"
+        ],
+        "ft³/s": [
+            "http://qudt.org/vocab/unit/FT3-PER-SEC"
+        ],
+        "cu ft/s": [
+            "http://qudt.org/vocab/unit/FT3-PER-SEC"
+        ],
+        "fg/l": [
+            "http://qudt.org/vocab/unit/FemtoGM-PER-L"
+        ],
+        "g/kg": [
+            "http://qudt.org/vocab/unit/GM-PER-KiloGM"
+        ],
+        "g/min": [
+            "http://qudt.org/vocab/unit/GM-PER-MIN"
+        ],
+        "g/mol": [
+            "http://qudt.org/vocab/unit/GM-PER-MOL"
+        ],
+        "g/ml": [
+            "http://qudt.org/vocab/unit/GM-PER-MilliL"
+        ],
+        "in/s": [
+            "http://qudt.org/vocab/unit/IN-PER-SEC"
+        ],
+        "j/kg": [
+            "http://qudt.org/vocab/unit/J-PER-KiloGM"
+        ],
+        "j/(m^3k)": [
+            "http://qudt.org/vocab/unit/J-PER-M3-K"
+        ],
+        "j/mol": [
+            "http://qudt.org/vocab/unit/J-PER-MOL"
+        ],
+        "j mol^-1": [
+            "http://qudt.org/vocab/unit/J-PER-MOL"
+        ],
+        "j.mol^-1": [
+            "http://qudt.org/vocab/unit/J-PER-MOL"
+        ],
+        "nmi/h": [
+            "http://qudt.org/vocab/unit/KN"
+        ],
+        "nm/h": [
+            "http://qudt.org/vocab/unit/KN"
+        ],
+        "l/day": [
+            "http://qudt.org/vocab/unit/L-PER-DAY"
+        ],
+        "l/kg": [
+            "http://qudt.org/vocab/unit/L-PER-KiloGM"
+        ],
+        "l/min": [
+            "http://qudt.org/vocab/unit/L-PER-MIN"
+        ],
+        "l/mol": [
+            "http://qudt.org/vocab/unit/L-PER-MOL"
+        ],
+        "lb/ft2": [
+            "http://qudt.org/vocab/unit/LB-PER-FT2"
+        ],
+        "m^2k/w": [
+            "http://qudt.org/vocab/unit/M2-K-PER-W"
+        ],
+        "m³/kg": [
+            "http://qudt.org/vocab/unit/M3-PER-KiloGM"
+        ],
+        "mi/h": [
+            "http://qudt.org/vocab/unit/MI-PER-HR"
+        ],
+        "mi/min": [
+            "http://qudt.org/vocab/unit/MI-PER-MIN"
+        ],
+        "mi/s": [
+            "http://qudt.org/vocab/unit/MI-PER-SEC"
+        ],
+        "m^3/kgs^2": [
+            "http://qudt.org/vocab/unit/N-M2-PER-KiloGM2"
+        ],
+        "lb ft/s²": [
+            "http://qudt.org/vocab/unit/PDL"
+        ],
+        "w/kg": [
+            "http://qudt.org/vocab/unit/W-PER-KiloGM"
+        ],
+        "w/(mk)": [
+            "http://qudt.org/vocab/unit/W-PER-M-K"
+        ],
+        "w/mk": [
+            "http://qudt.org/vocab/unit/W-PER-M-K"
+        ],
+        "w/(m^2k)": [
+            "http://qudt.org/vocab/unit/W-PER-M2-K"
+        ],
+        "w/(m²k)": [
+            "http://qudt.org/vocab/unit/W-PER-M2-K"
+        ],
+        "w/m^2k^4": [
+            "http://qudt.org/vocab/unit/W-PER-M2-K4"
+        ],
+        "wb/m": [
+            "http://qudt.org/vocab/unit/WB-PER-M"
+        ],
+        "bit/s": [
+            "http://qudt.org/vocab/unit/BIT-PER-SEC"
+        ],
+        "kgs": [
+            "http://qudt.org/vocab/unit/KiloGM"
+        ],
+        "abv/cm": [
+            "http://qudt.org/vocab/unit/V_Ab-PER-CentiM"
+        ]
+    }
+}

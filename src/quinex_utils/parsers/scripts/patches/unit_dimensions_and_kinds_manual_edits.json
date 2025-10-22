@@ -1,0 +1,230 @@
+{
+    "added": {
+        "http://qudt.org/PLACEHOLDER_TeraW_EL": {
+            "dimension_vector": "A0E0L2I0M1H0T-3D0",
+            "applicable_system": [
+                "CGS",
+                "CGS-EMU",
+                "CGS-GAUSS",
+                "PLANCK",
+                "SI"
+            ],
+            "conversion_multiplier": 1000000000000.0,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/PLACEHOLDER_GigaW_EL": {
+            "dimension_vector": "A0E0L2I0M1H0T-3D0",
+            "applicable_system": [
+                "CGS",
+                "CGS-EMU",
+                "CGS-GAUSS",
+                "PLANCK",
+                "SI"
+            ],
+            "conversion_multiplier": 1000000000.0,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/PLACEHOLDER_MegaW_EL": {
+            "dimension_vector": "A0E0L2I0M1H0T-3D0",
+            "applicable_system": [
+                "CGS",
+                "CGS-EMU",
+                "CGS-GAUSS",
+                "PLANCK",
+                "SI"
+            ],
+            "conversion_multiplier": 1000000.0,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/PLACEHOLDER_KiloW_EL": {
+            "dimension_vector": "A0E0L2I0M1H0T-3D0",
+            "applicable_system": [
+                "CGS",
+                "CGS-EMU",
+                "CGS-GAUSS",
+                "PLANCK",
+                "SI"
+            ],
+            "conversion_multiplier": 1000.0,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/PLACEHOLDER_PERCENT_BY_MASS": {
+            "dimension_vector": "A0E0L0I0M0H0T0D1",
+            "applicable_system": [
+                "ASU",
+                "CGS",
+                "CGS-EMU",
+                "CGS-ESU",
+                "CGS-GAUSS",
+                "IMPERIAL",
+                "PLANCK",
+                "SI"
+            ],
+            "conversion_multiplier": 0.01,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/PLACEHOLDER_PERCENT_BY_VOL": {
+            "dimension_vector": "A0E0L0I0M0H0T0D1",
+            "applicable_system": [
+                "ASU",
+                "CGS",
+                "CGS-EMU",
+                "CGS-ESU",
+                "CGS-GAUSS",
+                "IMPERIAL",
+                "PLANCK",
+                "SI"
+            ],
+            "conversion_multiplier": 0.01,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/PLACEHOLDER_PERCENT_BY_MOL": {
+            "dimension_vector": "A0E0L0I0M0H0T0D1",
+            "applicable_system": [
+                "ASU",
+                "CGS",
+                "CGS-EMU",
+                "CGS-ESU",
+                "CGS-GAUSS",
+                "IMPERIAL",
+                "PLANCK",
+                "SI"
+            ],
+            "conversion_multiplier": 0.01,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/PLACEHOLDER_PERCENT_HHV": {
+            "dimension_vector": "A0E0L0I0M0H0T0D1",
+            "applicable_system": [
+                "ASU",
+                "CGS",
+                "CGS-EMU",
+                "CGS-ESU",
+                "CGS-GAUSS",
+                "IMPERIAL",
+                "PLANCK",
+                "SI"
+            ],
+            "conversion_multiplier": 0.01,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/PLACEHOLDER_PERCENT_LHV": {
+            "dimension_vector": "A0E0L0I0M0H0T0D1",
+            "applicable_system": [
+                "ASU",
+                "CGS",
+                "CGS-EMU",
+                "CGS-ESU",
+                "CGS-GAUSS",
+                "IMPERIAL",
+                "PLANCK",
+                "SI"
+            ],
+            "conversion_multiplier": 0.01,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/PLACEHOLDER_CENT": {
+            "dimension_vector": "A0E0L0I0M0H0T0D1",
+            "applicable_system": [],
+            "conversion_multiplier": null,
+            "conversion_offset": null,
+            "is_currency": true
+        },
+        "http://qudt.org/PLACEHOLDER_CENTURY": {
+            "dimension_vector": "A0E0L0I0M0H0T1D0",
+            "applicable_system": [
+                "CGS",
+                "CGS-EMU",
+                "CGS-GAUSS",
+                "IMPERIAL",
+                "SI",
+                "USCS"
+            ],
+            "conversion_multiplier": 3155695200,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/PLACEHOLDER_MicroK": {
+            "dimension_vector": "A0E0L0I0M0H1T0D0",
+            "applicable_system": [
+                "SI"
+            ],
+            "conversion_multiplier": 1e-06,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/PLACEHOLDER_KiloOERSTED": {
+            "dimension_vector": "A0E1L-1I0M0H0T0D0",
+            "applicable_system": [
+                "CGS"
+            ],
+            "conversion_multiplier": 1000.0,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/PLACEHOLDER_JupiterMass": {
+            "dimension_vector": "A0E0L0I0M1H0T0D0",
+            "applicable_system": [],
+            "conversion_multiplier": 1.89813e27,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/PLACEHOLDER_ATG": {
+            "dimension_vector": "A0E0L-1I0M1H0T-2D0",
+            "applicable_system": [],
+            "conversion_multiplier": null,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/PLACEHOLDER_ARCMIN2": {
+            "dimension_vector": "A0E0L0I0M0H0T0D1",
+            "applicable_system": [
+                "USCS"
+            ],
+            "conversion_multiplier": null,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/vocab/unit/MilliK": {
+            "dimension_vector": "A0E0L0I0M0H1T0D0",
+            "applicable_system": [
+                "SI"
+            ],
+            "conversion_multiplier": 0.001,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/vocab/unit/PIXEL_COUNT": {
+            "dimension_vector": "A0E0L0I0M0H0T0D1",
+            "applicable_system": [],
+            "conversion_multiplier": 1.0,
+            "conversion_offset": null,
+            "is_currency": false
+        },
+        "http://qudt.org/vocab/unit/GigaBIT": {
+            "dimension_vector": "A0E0L0I0M0H0T0D1",
+            "applicable_system": [
+                "ASU",
+                "CGS",
+                "CGS-EMU",
+                "CGS-GAUSS",
+                "CGS-ESU",
+                "IMPERIAL",
+                "SI",
+                "PLANCK"
+            ],
+            "conversion_multiplier": 693147180.55994530941723212145818,
+            "conversion_offset": null,
+            "is_currency": false
+        }
+    }
+}

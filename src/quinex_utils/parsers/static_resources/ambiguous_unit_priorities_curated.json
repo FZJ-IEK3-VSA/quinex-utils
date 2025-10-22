@@ -1,0 +1,683 @@
+{
+    "'": {
+        "http://qudt.org/vocab/unit/FT": 1,
+        "http://qudt.org/vocab/unit/MIN": 2,
+        "http://qudt.org/vocab/unit/ARCMIN": 3
+    },
+    "′": {
+        "http://qudt.org/vocab/unit/FT": 1,
+        "http://qudt.org/vocab/unit/MIN": 2,
+        "http://qudt.org/vocab/unit/ARCMIN": 3
+    },
+    "minuit": {
+        "http://qudt.org/vocab/unit/MIN": 1,
+        "http://qudt.org/vocab/unit/ARCMIN": 2
+    },
+    "minute": {
+        "http://qudt.org/vocab/unit/MIN": 1,
+        "http://qudt.org/vocab/unit/ARCMIN": 2
+    },
+    "min.": {
+        "http://qudt.org/vocab/unit/MIN": 1,
+        "http://qudt.org/vocab/unit/ARCMIN": 2
+    },
+    "\"": {
+        "http://qudt.org/vocab/unit/IN": 1,
+        "http://qudt.org/vocab/unit/SEC": 2,
+        "http://qudt.org/vocab/unit/ARCSEC": 3
+    },
+    "″": {
+        "http://qudt.org/vocab/unit/IN": 1,
+        "http://qudt.org/vocab/unit/SEC": 2,
+        "http://qudt.org/vocab/unit/ARCSEC": 3
+    },
+    "second": {
+        "http://qudt.org/vocab/unit/SEC": 1,
+        "http://qudt.org/vocab/unit/ARCSEC": 2
+    },
+    "a": {
+        "http://qudt.org/vocab/unit/YR": 1,
+        "http://qudt.org/vocab/unit/ARE": 2,
+        "http://qudt.org/vocab/unit/YR_Common": 3
+    },
+    "AT": {
+        "http://qudt.org/vocab/unit/AT": 1,
+        "http://qudt.org/vocab/unit/TON_Assay": 2
+    },
+    "AWG": {
+        "http://qudt.org/vocab/unit/AWG": 1,
+        "http://qudt.org/vocab/unit/CCY_AWG": 2
+    },
+    "aC": {
+        "http://qudt.org/vocab/unit/C_Ab": 1,
+        "http://qudt.org/vocab/unit/AttoC": 2
+    },
+    "B": {
+        "http://qudt.org/vocab/unit/B": 1,
+        "http://qudt.org/vocab/unit/BYTE": 2,
+        "http://qudt.org/vocab/unit/BREWSTER": 3
+    },
+    "Hart": {
+        "http://qudt.org/vocab/unit/HART": 1,
+        "http://qudt.org/vocab/unit/BAN": 2
+    },
+    "ban": {
+        "http://qudt.org/vocab/unit/BAN": 1,
+        "http://qudt.org/vocab/unit/HART": 2
+    },
+    "dit": {
+        "http://qudt.org/vocab/unit/BAN": 1,
+        "http://qudt.org/vocab/unit/HART": 2
+    },
+    "hart": {
+        "http://qudt.org/vocab/unit/BAN": 1,
+        "http://qudt.org/vocab/unit/HART": 2
+    },
+    "hartley": {
+        "http://qudt.org/vocab/unit/BAN": 1,
+        "http://qudt.org/vocab/unit/HART": 2
+    },
+    "bar": {
+        "http://qudt.org/vocab/unit/BAR": 1,
+        "http://qudt.org/vocab/unit/BAR_A": 2
+    },
+    "bar (pressure)": {
+        "http://qudt.org/vocab/unit/BAR": 1,
+        "http://qudt.org/vocab/unit/BAR_A": 2
+    },
+    "b": {
+        "http://qudt.org/vocab/unit/BIT": 1,
+        "http://qudt.org/vocab/unit/BARN": 2
+    },
+    "bbl": {
+        "http://qudt.org/vocab/unit/BBL": 1,
+        "http://qudt.org/vocab/unit/BBL_US_DRY": 2,
+        "http://qudt.org/vocab/unit/BBL_US_PET": 3
+    },
+    "bbl (US)": {
+        "http://qudt.org/vocab/unit/BBL_US_DRY": 1,
+        "http://qudt.org/vocab/unit/BBL_US_PET": 2
+    },
+    "barrel of oil": {
+        "http://qudt.org/vocab/unit/BBL": 1,
+        "http://qudt.org/vocab/unit/BBL_US_PET": 2
+    },
+    "oil barrel": {
+        "http://qudt.org/vocab/unit/BBL": 1,
+        "http://qudt.org/vocab/unit/BBL_US_PET": 2
+    },
+    "bushel": {
+        "http://qudt.org/vocab/unit/BU_UK": 1,
+        "http://qudt.org/vocab/unit/BU_US": 2,
+        "http://qudt.org/vocab/unit/BU_US_DRY": 3
+    },
+    "[bu_us]": {
+        "http://qudt.org/vocab/unit/BU_US": 1,
+        "http://qudt.org/vocab/unit/BU_US_DRY": 2
+    },
+    "bu": {
+        "http://qudt.org/vocab/unit/BU_US": 1,
+        "http://qudt.org/vocab/unit/BU_US_DRY": 2
+    },
+    "bu (US)": {
+        "http://qudt.org/vocab/unit/BU_US": 1,
+        "http://qudt.org/vocab/unit/BU_US_DRY": 2
+    },
+    "bushel (us)": {
+        "http://qudt.org/vocab/unit/BU_US": 1,
+        "http://qudt.org/vocab/unit/BU_US_DRY": 2
+    },
+    "us bushel": {
+        "http://qudt.org/vocab/unit/BU_US": 1,
+        "http://qudt.org/vocab/unit/BU_US_DRY": 2
+    },
+    "c": {
+        "http://qudt.org/PLACEHOLDER_CENT": 1,
+        "http://qudt.org/vocab/unit/CAL_MEAN": 2
+    },
+    "C": {
+        "http://qudt.org/vocab/unit/C": 1,
+        "http://qudt.org/vocab/unit/DEG_C": 2
+    },
+    "calorie": {
+        "http://qudt.org/vocab/unit/CAL_IT": 1,
+        "http://qudt.org/vocab/unit/CAL_MEAN": 2,
+        "http://qudt.org/vocab/unit/KiloCAL": null
+    },
+    "cal": {
+        "http://qudt.org/vocab/unit/CAL_TH": 1,
+        "http://qudt.org/vocab/unit/CAL_MEAN": 2
+    },
+    "L": {
+        "http://qudt.org/vocab/unit/L": 1,
+        "http://qudt.org/vocab/unit/LA": 2,
+        "http://qudt.org/vocab/unit/CCY_ALL": 3,
+        "http://qudt.org/vocab/unit/CCY_MDL": 4,
+        "http://qudt.org/vocab/unit/CCY_RON": 5
+    },
+    "dram": {
+        "http://qudt.org/vocab/unit/CCY_AMD": 1,
+        "http://qudt.org/vocab/unit/DRAM_UK": 2,
+        "http://qudt.org/vocab/unit/DRAM_US": 3
+    },
+    "$": {
+        "http://qudt.org/vocab/unit/CCY_USD": 1,
+        "http://qudt.org/vocab/unit/CCY_AUD": 2,
+        "http://qudt.org/vocab/unit/CCY_CAD": 3,
+        "http://qudt.org/vocab/unit/CCY_BND": 4,
+        "http://qudt.org/vocab/unit/CCY_BRL": 5,
+        "http://qudt.org/vocab/unit/CCY_BZD": 6,
+        "http://qudt.org/vocab/unit/CCY_CLP": 7,
+        "http://qudt.org/vocab/unit/CCY_COP": 8,
+        "http://qudt.org/vocab/unit/CCY_HKD": 9,
+        "http://qudt.org/vocab/unit/CCY_JMD": 10,
+        "http://qudt.org/vocab/unit/CCY_MXN": 11,
+        "http://qudt.org/vocab/unit/CCY_NAD": 12,
+        "http://qudt.org/vocab/unit/CCY_NZD": 13,
+        "http://qudt.org/vocab/unit/CCY_SBD": 14,
+        "http://qudt.org/vocab/unit/CCY_SGD": 15,
+        "http://qudt.org/vocab/unit/CCY_SRD": 16,
+        "http://qudt.org/vocab/unit/CCY_TWD": 17,
+        "http://qudt.org/vocab/unit/CCY_ZWL": 18
+    },
+    "dollar": {
+        "http://qudt.org/vocab/unit/CCY_USD": 1,
+        "http://qudt.org/vocab/unit/CCY_AUD": 2,
+        "http://qudt.org/vocab/unit/CCY_CAD": 3,
+        "http://qudt.org/vocab/unit/CCY_HKD": 4,
+        "http://qudt.org/vocab/unit/CCY_NZD": 5,
+        "http://qudt.org/vocab/unit/CCY_SGD": 6
+    },
+    "dollars": {
+        "http://qudt.org/vocab/unit/CCY_USD": 1,
+        "http://qudt.org/vocab/unit/CCY_AUD": 2,
+        "http://qudt.org/vocab/unit/CCY_HKD": 3,
+        "http://qudt.org/vocab/unit/CCY_NZD": 4,
+        "http://qudt.org/vocab/unit/CCY_SGD": 5
+    },
+    "manat": {
+        "http://qudt.org/vocab/unit/CCY_AZN": 1,
+        "http://qudt.org/vocab/unit/CCY_TMT": 2
+    },
+    "B$": {
+        "http://qudt.org/vocab/unit/CCY_BND": 1,
+        "http://qudt.org/vocab/unit/CCY_BSD": 2
+    },
+    "Fr": {
+        "http://qudt.org/vocab/unit/FR": 1,
+        "http://qudt.org/vocab/unit/GAUGE_FR": 2,
+        "http://qudt.org/vocab/unit/CCY_CHF": 3
+    },
+    "franc": {
+        "http://qudt.org/vocab/unit/CCY_CHF": 1,
+        "http://qudt.org/vocab/unit/CCY_XPF": 2
+    },
+    "¥": {
+        "http://qudt.org/vocab/unit/CCY_CNY": 1,
+        "http://qudt.org/vocab/unit/CCY_JPY": 2
+    },
+    "peso": {
+        "http://qudt.org/vocab/unit/CCY_COP": 1,
+        "http://qudt.org/vocab/unit/CCY_MXN": 2,
+        "http://qudt.org/vocab/unit/CCY_CUP": 3,
+        "http://qudt.org/vocab/unit/CCY_PHP": 4
+    },
+    "cup": {
+        "http://qudt.org/vocab/unit/CCY_CUP": 1,
+        "http://qudt.org/vocab/unit/CUP": 2
+    },
+    "kr": {
+        "http://qudt.org/vocab/unit/CCY_DKK": 1,
+        "http://qudt.org/vocab/unit/CCY_EEK": 2,
+        "http://qudt.org/vocab/unit/CCY_ISK": 3,
+        "http://qudt.org/vocab/unit/CCY_NOK": 4,
+        "http://qudt.org/vocab/unit/CCY_SEK": 5
+    },
+    "kr/(kW·h)": {
+        "http://qudt.org/vocab/unit/CCY_DKK-PER-KiloW-HR": 1,
+        "http://qudt.org/vocab/unit/CCY_NOK-PER-KiloW-HR": 2,
+        "http://qudt.org/vocab/unit/CCY_SEK-PER-KiloW-HR": 3
+    },
+    "dinar": {
+        "http://qudt.org/vocab/unit/CCY_DZD": 1,
+        "http://qudt.org/vocab/unit/CCY_LYD": 2,
+        "http://qudt.org/vocab/unit/CCY_RSD": 3
+    },
+    "pound": {
+        "http://qudt.org/vocab/unit/CCY_GBP": 1,
+        "http://qudt.org/vocab/unit/LB": 2,
+        "http://qudt.org/vocab/unit/LB_F": 3
+    },
+    "pounds": {
+        "http://qudt.org/vocab/unit/CCY_GBP": 1,
+        "http://qudt.org/vocab/unit/LB": 2
+    },
+    "rupee": {
+        "http://qudt.org/vocab/unit/CCY_INR": 1,
+        "http://qudt.org/vocab/unit/CCY_SCR": 2
+    },
+    "kip": {
+        "http://qudt.org/vocab/unit/CCY_LAK": 1,
+        "http://qudt.org/vocab/unit/KIP_F": 2
+    },
+    "K": {
+        "http://qudt.org/vocab/unit/K": 1,
+        "http://qudt.org/vocab/unit/KY": 2,
+        "http://qudt.org/vocab/unit/CCY_MMK": 3,
+        "http://qudt.org/vocab/unit/CCY_ZMW": 4,
+        "http://qudt.org/vocab/unit/KibiBYTE": 5
+    },
+    "myr": {
+        "http://qudt.org/vocab/unit/CCY_MYR": 1,
+        "http://qudt.org/vocab/unit/MegaYR": 2
+    },
+    "R": {
+        "http://qudt.org/vocab/unit/R": 1,
+        "http://qudt.org/vocab/unit/CCY_ZAR": 2
+    },
+    "nit": {
+        "http://qudt.org/vocab/unit/NAT": 1,
+        "http://qudt.org/vocab/unit/CD-PER-M2": 2
+    },
+    "cwt": {
+        "http://qudt.org/vocab/unit/CWT_LONG": 1,
+        "http://qudt.org/vocab/unit/CWT_SHORT": 2
+    },
+    "mL": {
+        "http://qudt.org/vocab/unit/MilliL": 1,
+        "http://qudt.org/vocab/unit/CentiM3": 2
+    },
+    "ml": {
+        "http://qudt.org/vocab/unit/MilliL": 1,
+        "http://qudt.org/vocab/unit/CentiM3": 2
+    },
+    "milliliter": {
+        "http://qudt.org/vocab/unit/MilliL": 1,
+        "http://qudt.org/vocab/unit/CentiM3": 2
+    },
+    "millilitre": {
+        "http://qudt.org/vocab/unit/MilliL": 1,
+        "http://qudt.org/vocab/unit/CentiM3": 2
+    },
+    "D": {
+        "http://qudt.org/vocab/unit/DARCY": 1,
+        "http://qudt.org/vocab/unit/DEBYE": 2,
+        "http://qudt.org/vocab/unit/DENIER": 3,
+        "http://qudt.org/vocab/unit/DIOPTER": 4
+    },
+    "d": {
+        "http://qudt.org/vocab/unit/DAY": 1,
+        "http://qudt.org/vocab/unit/DARCY": 2
+    },
+    "$d$": {
+        "http://qudt.org/vocab/unit/DARCY": 1,
+        "http://qudt.org/vocab/unit/MilliDARCY": 2
+    },
+    "F": {
+        "http://qudt.org/vocab/unit/F": 1,
+        "http://qudt.org/vocab/unit/DEG_F": 2,
+        "http://qudt.org/vocab/unit/FARAD": 3
+    },
+    "decibel milliwatt": {
+        "http://qudt.org/vocab/unit/DeciB-MilliW": 1,
+        "http://qudt.org/vocab/unit/DeciB_M": 2
+    },
+    "eib": {
+        "http://qudt.org/vocab/unit/ExbiBIT": 1,
+        "http://qudt.org/vocab/unit/ExbiBYTE": 2
+    },
+    "fps": {
+        "http://qudt.org/vocab/unit/FT-PER-SEC": 1,
+        "http://qudt.org/vocab/unit/FRAME-PER-SEC": 2
+    },
+    "ft": {
+        "http://qudt.org/vocab/unit/FT": 1,
+        "http://qudt.org/vocab/unit/FT_US": 2
+    },
+    "fL": {
+        "http://qudt.org/vocab/unit/LA_FT": 1,
+        "http://qudt.org/vocab/unit/FemtoL": 2
+    },
+    "g": {
+        "http://qudt.org/vocab/unit/GM": 1,
+        "http://qudt.org/vocab/unit/G": 2
+    },
+    "G": {
+        "http://qudt.org/vocab/unit/G": 1,
+        "http://qudt.org/vocab/unit/T_Ab": 2
+    },
+    "gal": {
+        "http://qudt.org/vocab/unit/GAL_UK": 1,
+        "http://qudt.org/vocab/unit/GAL_US": 2,
+        "http://qudt.org/vocab/unit/GALILEO": 3,
+        "http://qudt.org/vocab/unit/GAL_US_DRY": 4
+    },
+    "gallon": {
+        "http://qudt.org/vocab/unit/GAL_UK": 1,
+        "http://qudt.org/vocab/unit/GAL_US": 2
+    },
+    "Gb": {
+        "http://qudt.org/vocab/unit/GigaBIT": 1,
+        "http://qudt.org/vocab/unit/GI": 2
+    },
+    "gi": {
+        "http://qudt.org/vocab/unit/GI_UK": 1,
+        "http://qudt.org/vocab/unit/GI_US": 2
+    },
+    "gill": {
+        "http://qudt.org/vocab/unit/GI_UK": 1,
+        "http://qudt.org/vocab/unit/GI_US": 2
+    },
+    "grade": {
+        "http://qudt.org/vocab/unit/GR": 1,
+        "http://qudt.org/vocab/unit/GON": 2
+    },
+    "gr": {
+        "http://qudt.org/vocab/unit/GR": 1,
+        "http://qudt.org/vocab/unit/GRAIN": 2
+    },
+    "Gy": {
+        "http://qudt.org/vocab/unit/GRAY": null,
+        "http://qudt.org/vocab/unit/MicroGRAY": null
+    },
+    "gray": {
+        "http://qudt.org/vocab/unit/GRAY": null,
+        "http://qudt.org/vocab/unit/MicroGRAY": null
+    },
+    "gib": {
+        "http://qudt.org/vocab/unit/GibiBIT": 1,
+        "http://qudt.org/vocab/unit/GigaBIT": 2,
+        "http://qudt.org/vocab/unit/GibiBYTE": 3
+    },
+    "hp": {
+        "http://qudt.org/vocab/unit/HP": 1,
+        "http://qudt.org/vocab/unit/HP_Metric": 2
+    },
+    "horsepower": {
+        "http://qudt.org/vocab/unit/HP_Metric": 1,
+        "http://qudt.org/vocab/unit/HP": 2
+    },
+    "british horsepower": {
+        "http://qudt.org/vocab/unit/HP_Metric": 1,
+        "http://qudt.org/vocab/unit/HP": 2
+    },
+    "bhp": {
+        "http://qudt.org/vocab/unit/HP": 1,
+        "http://qudt.org/vocab/unit/HP_Brake": 2
+    },
+    "boiler horsepower": {
+        "http://qudt.org/vocab/unit/HP_Boiler": 1,
+        "http://qudt.org/vocab/unit/HP_Metric": 2
+    },
+    "PS": {
+        "http://qudt.org/vocab/unit/HP_Metric": 1,
+        "http://qudt.org/vocab/unit/PFERDESTAERKE": 2
+    },
+    "u": {
+        "http://qudt.org/vocab/unit/U": 1,
+        "http://qudt.org/vocab/unit/HR": 2
+    },
+    "K m/W": {
+        "http://qudt.org/vocab/unit/K-M-PER-W": null,
+        "http://qudt.org/vocab/unit/M-K-PER-W": null
+    },
+    "difference kelvin meter per watt": {
+        "http://qudt.org/vocab/unit/K-M-PER-W": null,
+        "http://qudt.org/vocab/unit/M-K-PER-W": null
+    },
+    "kelvin metre per watt": {
+        "http://qudt.org/vocab/unit/K-M-PER-W": null,
+        "http://qudt.org/vocab/unit/M-K-PER-W": null
+    },
+    "meter kelvin per watt": {
+        "http://qudt.org/vocab/unit/M-K-PER-W": null,
+        "http://qudt.org/vocab/unit/K-M-PER-W": null
+    },
+    "meter difference kelvin per watt": {
+        "http://qudt.org/vocab/unit/M-K-PER-W": null,
+        "http://qudt.org/vocab/unit/K-M-PER-W": null
+    },
+    "$K / s$": {
+        "http://qudt.org/vocab/unit/K-PER-SEC": 1,
+        "http://qudt.org/vocab/unit/K-PER-SEC2": 2
+    },
+    "k[lbf_av]": {
+        "http://qudt.org/vocab/unit/KiloLB_F": 1,
+        "http://qudt.org/vocab/unit/KIP_F": 2
+    },
+    "klbf": {
+        "http://qudt.org/vocab/unit/KiloLB_F": null,
+        "http://qudt.org/vocab/unit/KIP_F": null
+    },
+    "k[lbf_av].[in_i]-2": {
+        "http://qudt.org/vocab/unit/KiloLB_F-PER-IN2": 1,
+        "http://qudt.org/vocab/unit/KIP_F-PER-IN2": 2
+    },
+    "kt": {
+        "http://qudt.org/vocab/unit/KN": 1,
+        "http://qudt.org/vocab/unit/KiloTONNE": 2
+    },
+    "kib": {
+        "http://qudt.org/vocab/unit/KibiBIT": 1,
+        "http://qudt.org/vocab/unit/KibiBYTE": 2
+    },
+    "kcal": {
+        "http://qudt.org/vocab/unit/KiloCAL": 1,
+        "http://qudt.org/vocab/unit/KiloCAL_Mean": 2
+    },
+    "kcal/min": {
+        "http://qudt.org/vocab/unit/KiloCAL-PER-MIN": 1,
+        "http://qudt.org/vocab/unit/KiloCAL_TH-PER-MIN": 2
+    },
+    "kcal/s": {
+        "http://qudt.org/vocab/unit/KiloCAL-PER-SEC": 1,
+        "http://qudt.org/vocab/unit/KiloCAL_TH-PER-SEC": 2
+    },
+    "kg/cm2": {
+        "http://qudt.org/vocab/unit/KiloGM-PER-CentiM2": 1,
+        "http://qudt.org/vocab/unit/KiloGM_F-PER-CentiM2": 2
+    },
+    "lb": {
+        "http://qudt.org/vocab/unit/LB": 1,
+        "http://qudt.org/vocab/unit/LB_F": 2
+    },
+    "m": {
+        "http://qudt.org/vocab/unit/M": 1,
+        "http://qudt.org/vocab/unit/MIN": 2
+    },
+    "statute mile": {
+        "http://qudt.org/vocab/unit/MI": 1,
+        "http://qudt.org/vocab/unit/MI_US": 2
+    },
+    "$square-mile$": {
+        "http://qudt.org/vocab/unit/MI2": 1,
+        "http://qudt.org/vocab/unit/MI_US2": 2
+    },
+    "mi³": {
+        "http://qudt.org/vocab/unit/MI3": 1,
+        "http://qudt.org/vocab/unit/MI_UK3": 2
+    },
+    "nm": {
+        "http://qudt.org/vocab/unit/NanoM": 1,
+        "http://qudt.org/vocab/unit/MI_N": 2
+    },
+    "mib": {
+        "http://qudt.org/vocab/unit/MebiBIT": 1,
+        "http://qudt.org/vocab/unit/MebiBYTE": 2
+    },
+    "mA": {
+        "http://qudt.org/vocab/unit/MegaA": 1,
+        "http://qudt.org/vocab/unit/MilliA": 2
+    },
+    "mbq": {
+        "http://qudt.org/vocab/unit/MegaBQ": 1,
+        "http://qudt.org/vocab/unit/MilliBQ": 2
+    },
+    "ton": {
+        "http://qudt.org/vocab/unit/TONNE": 1,
+        "http://qudt.org/vocab/unit/MegaGM": 2,
+        "http://qudt.org/vocab/unit/TON_UK": 3,
+        "http://qudt.org/vocab/unit/TON": 4
+    },
+    "mgy": {
+        "http://qudt.org/vocab/unit/MegaGRAY": 1,
+        "http://qudt.org/vocab/unit/MilliGRAY": 2
+    },
+    "mhz": {
+        "http://qudt.org/vocab/unit/MegaHZ": 1,
+        "http://qudt.org/vocab/unit/MilliHZ": 2
+    },
+    "Sv": {
+        "http://qudt.org/vocab/unit/SV": 1,
+        "http://qudt.org/vocab/unit/MicroSV": null,
+        "http://qudt.org/vocab/unit/MicroSV-PER-HR": null
+    },
+    "sievert": {
+        "http://qudt.org/vocab/unit/SV": 1,
+        "http://qudt.org/vocab/unit/MicroSV-PER-HR": null,
+        "http://qudt.org/vocab/unit/MicroSV": null
+    },
+    "mil": {
+        "http://qudt.org/vocab/unit/MilliM": 1,
+        "http://qudt.org/vocab/unit/MilliIN": 2,
+        "http://qudt.org/vocab/unit/MilliRAD": 3,
+        "http://qudt.org/vocab/unit/MilLength": 4
+    },
+    "mils": {
+        "http://qudt.org/vocab/unit/MilliIN": 1,
+        "http://qudt.org/vocab/unit/MilliRAD": 2
+    },
+    "mrad": {
+        "http://qudt.org/vocab/unit/MilliRAD": 1,
+        "http://qudt.org/vocab/unit/MilliRAD_R": 2
+    },
+    "normal cubic metre": {
+        "http://qudt.org/vocab/unit/NCM": 1,
+        "http://qudt.org/vocab/unit/NCM_1ATM_0DEG_C_NL": 2
+    },
+    "{#}.min-1": {
+        "http://qudt.org/vocab/unit/NUM-PER-MIN": 1,
+        "http://qudt.org/vocab/unit/REV-PER-MIN": 2
+    },
+    "nOhm": {
+        "http://qudt.org/vocab/unit/NanoOHM": 1,
+        "http://qudt.org/vocab/unit/OHM_Ab": 2
+    },
+    "nΩ": {
+        "http://qudt.org/vocab/unit/NanoOHM": 1,
+        "http://qudt.org/vocab/unit/OHM_Ab": 2
+    },
+    "nanoohm": {
+        "http://qudt.org/vocab/unit/NanoOHM": 1,
+        "http://qudt.org/vocab/unit/OHM_Ab": 2
+    },
+    "fl oz": {
+        "http://qudt.org/vocab/unit/OZ_VOL_UK": 1,
+        "http://qudt.org/vocab/unit/OZ_VOL_US": 2
+    },
+    "pc": {
+        "http://qudt.org/vocab/unit/PCA": 1,
+        "http://qudt.org/vocab/unit/PARSEC": 2
+    },
+    "$m^{-1}$": {
+        "http://qudt.org/vocab/unit/PER-HR": 1,
+        "http://qudt.org/vocab/unit/PER-MIN": 2
+    },
+    "pH": {
+        "http://qudt.org/vocab/unit/PH": 1,
+        "http://qudt.org/vocab/unit/PicoH": 2
+    },
+    "pt": {
+        "http://qudt.org/vocab/unit/PT": 1,
+        "http://qudt.org/vocab/unit/PINT": 2
+    },
+    "pint": {
+        "http://qudt.org/vocab/unit/PINT": 1,
+        "http://qudt.org/vocab/unit/PINT_US": 2,
+        "http://qudt.org/vocab/unit/PINT_US_DRY": 3
+    },
+    "peck": {
+        "http://qudt.org/vocab/unit/PK_UK": 1,
+        "http://qudt.org/vocab/unit/PK_US_DRY": 2
+    },
+    "pib": {
+        "http://qudt.org/vocab/unit/PebiBIT": 1,
+        "http://qudt.org/vocab/unit/PebiBYTE": 2
+    },
+    "PB": {
+        "http://qudt.org/vocab/unit/PebiBYTE": null,
+        "http://qudt.org/vocab/unit/PetaBYTE": 2
+    },
+    "planck frequency": {
+        "http://qudt.org/vocab/unit/PlanckFrequency": 1,
+        "http://qudt.org/vocab/unit/PlanckFrequency_Ang": 2
+    },
+    "p_P": {
+        "http://qudt.org/vocab/unit/PlanckMomentum": null,
+        "http://qudt.org/vocab/unit/PlanckPressure": 2
+    },
+    "rad": {
+        "http://qudt.org/vocab/unit/RAD": 1,
+        "http://qudt.org/vocab/unit/RAD_R": 2
+    },
+    "$rad/m$": {
+        "http://qudt.org/vocab/unit/RAD-PER-M": 1,
+        "http://qudt.org/vocab/unit/RAD-PER-MIN": 2
+    },
+    "pole": {
+        "http://qudt.org/vocab/unit/UnitPole": 1,
+        "http://qudt.org/vocab/unit/ROD": 2
+    },
+    "S": {
+        "http://qudt.org/vocab/unit/S": 1,
+        "http://qudt.org/vocab/unit/SolarMass": 2
+    },
+    "standard cubic metre": {
+        "http://qudt.org/vocab/unit/SCM": 1,
+        "http://qudt.org/vocab/unit/SCM_1ATM_15DEG_C_NL": 2
+    },
+    "st": {
+        "http://qudt.org/vocab/unit/Stone_UK": 1,
+        "http://qudt.org/vocab/unit/STR": 2
+    },
+    "χ": {
+        "http://qudt.org/vocab/unit/SUSCEPTIBILITY_MAG": 1,
+        "http://qudt.org/vocab/unit/SUSCEPTIBILITY_ELEC": 2
+    },
+    "T": {
+        "http://qudt.org/vocab/unit/T": 1,
+        "http://qudt.org/vocab/unit/TON": 2
+    },
+    "RT": {
+        "http://qudt.org/vocab/unit/TON_FG": 1,
+        "http://qudt.org/vocab/unit/TON_Register": 2
+    },
+    "MTON": {
+        "http://qudt.org/vocab/unit/TON_SHIPPING_UK": 1,
+        "http://qudt.org/vocab/unit/TON_SHIPPING_US": 2
+    },
+    "ton (uk shipping)": {
+        "http://qudt.org/vocab/unit/TON_SHIPPING_UK": 1,
+        "http://qudt.org/vocab/unit/TON_UK": 2
+    },
+    "shipping ton": {
+        "http://qudt.org/vocab/unit/TON_UK": 1,
+        "http://qudt.org/vocab/unit/TON_SHIPPING_US": 2
+    },
+    "$ton/yd^3$": {
+        "http://qudt.org/vocab/unit/TON_UK-PER-YD3": 1,
+        "http://qudt.org/vocab/unit/TON_US-PER-YD3": 2
+    },
+    "tib": {
+        "http://qudt.org/vocab/unit/TebiBIT": 1,
+        "http://qudt.org/vocab/unit/TebiBYTE": 2
+    },
+    "TB": {
+        "http://qudt.org/vocab/unit/TebiBYTE": null,
+        "http://qudt.org/vocab/unit/TeraBYTE": 2
+    },
+    "$W/ft^{2}$": {
+        "http://qudt.org/vocab/unit/W-PER-FT2": 1,
+        "http://qudt.org/vocab/unit/W-PER-CentiM2": 2
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "added": {
+        "http://qudt.org/PLACEHOLDER_TeraW_EL": {
+            "qudt": [
+                "ActivePower",
+                "Power"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_GigaW_EL": {
+            "qudt": [
+                "ActivePower",
+                "Power"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_MegaW_EL": {
+            "qudt": [
+                "ActivePower",
+                "Power"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_KiloW_EL": {
+            "qudt": [
+                "ActivePower",
+                "Power"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_PERCENT_BY_MASS": {
+            "qudt": [
+                "DimensionlessRatio"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_PERCENT_BY_VOL": {
+            "qudt": [
+                "DimensionlessRatio"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_PERCENT_BY_MOL": {
+            "qudt": [
+                "DimensionlessRatio"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_PERCENT_HHV": {
+            "qudt": [
+                "DimensionlessRatio"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_PERCENT_LHV": {
+            "qudt": [
+                "DimensionlessRatio"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_CENT": {
+            "qudt": [
+                "Currency"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_CENTURY": {
+            "qudt": [
+                "Time"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_MicroK": {
+            "qudt": [
+                "BoilingPoint",
+                "CorrelatedColorTemperature",
+                "FlashPoint",
+                "MeltingPoint",
+                "Temperature",
+                "ThermodynamicTemperature"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_KiloOERSTED": {
+            "qudt": [
+                "MagneticFieldStrength"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_JupiterMass": {
+            "qudt": [
+                "Mass"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_ATG": {
+            "qudt": [
+                "ForcePerArea",
+                "VaporPressure"
+            ]
+        },
+        "http://qudt.org/PLACEHOLDER_ARCMIN2": {
+            "qudt": [
+                "SolidAngle"
+            ]
+        },
+        "http://qudt.org/vocab/unit/MilliK": {
+            "qudt": [
+                "BoilingPoint",
+                "CorrelatedColorTemperature",
+                "FlashPoint",
+                "MeltingPoint",
+                "Temperature",
+                "ThermodynamicTemperature"
+            ]
+        },
+        "http://qudt.org/vocab/unit/PIXEL_COUNT": {
+            "qudt": [
+                "Count"
+            ]
+        },
+        "http://qudt.org/vocab/unit/GigaBIT": {
+            "qudt": [
+                "DatasetOfBits"
+            ]
+        }
+    }
+}
