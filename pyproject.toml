@@ -63,6 +63,9 @@ package-dir = {"" = "src"}
 where = ["src"]
 include = ["*"]
 
+[tool.setuptools.package-data]
+"quinex_utils.parsers.static_resources" = ["*.json"]
+
 [build-system]
 requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
