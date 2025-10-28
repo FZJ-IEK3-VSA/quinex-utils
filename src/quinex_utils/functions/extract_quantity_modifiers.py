@@ -8,7 +8,7 @@ try:
 except ImportError:    
     warnings.warn("Spacy is not installed. Please install it to use the quantity modifier extraction.")
 from text_processing_utils.char_offsets import is_inside, get_span_distance_sorted, merge_annotation_offsets
-from text_processing_utils.iob_tags import transform_into_char_offsets_and_readable_tag
+from text_processing_utils.bio_tags import transform_into_char_offsets_and_readable_tag
 from text_processing_utils.locate import get_sent_idx
 from quinex_utils.lookups.quantity_modifiers import PREFIXED_QUANTITY_MODIFIERS, SUFFIXED_QUANTITY_MODIFIERS, PREFIXED_QMOD_MATH_SYMBOLS
 
