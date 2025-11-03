@@ -2,7 +2,7 @@
 
 First, download the required source data:
 ```bash
-cd src/quinex_utils/parsers/scripts/raw_data/unit_ontologies
+cd dev/parsers/update_lookups/raw_data/unit_ontologies
 git clone https://github.com/qudt/qudt-public-repo.git
 git clone https://github.com/HajoRijgersberg/OM.git
 cd ..

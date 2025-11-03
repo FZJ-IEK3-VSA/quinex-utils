@@ -17,7 +17,7 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 # =                       Configuration                       =
 # =============================================================
 output_dir = Path("src/quinex_utils/parsers/static_resources/")
-raw_data_dir = Path("src/quinex_utils/parsers/scripts/raw_data/")
+raw_data_dir = Path("dev/parsers/update_lookups/raw_data/")
 
 # QUDT
 qudt_units_path = raw_data_dir / "unit_ontologies/qudt-public-repo/src/main/rdf/vocab/unit/VOCAB_QUDT-UNITS-ALL.ttl"

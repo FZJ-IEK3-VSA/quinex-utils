@@ -2,7 +2,7 @@ import json
 
 
 label_or_sysbol = "label"  # "symbol" or "label"
-with open(f'src/quinex_utils/parsers/static_resources_used_for_paper/unit_{label_or_sysbol}_lookup.json', 'r') as f:
+with open(f'src/quinex_utils/parsers/old_static_resources/unit_{label_or_sysbol}_lookup.json', 'r') as f:
     surfaces_old = json.load(f)
 
 with open(f'src/quinex_utils/parsers/static_resources/unit_{label_or_sysbol}_lookup.json', 'r') as f:

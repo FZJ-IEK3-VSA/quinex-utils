@@ -4,10 +4,10 @@ from tqdm import tqdm
 
 
 manual_edits_paths = {
-    "unit_label_lookup": "src/quinex_utils/parsers/scripts/patches/unit_label_lookup_manual_edits.json",                    
-    "unit_symbol_lookup": "src/quinex_utils/parsers/scripts/patches/unit_symbol_lookup_manual_edits.json",
-    "unit_dimensions_and_kinds": "src/quinex_utils/parsers/scripts/patches/unit_dimensions_and_kinds_manual_edits.json",    
-    "unit_quantity_kinds": "src/quinex_utils/parsers/scripts/patches/unit_quantity_kinds_manual_edits.json",    
+    "unit_label_lookup": "dev/parsers/update_lookups/patches/unit_label_lookup_manual_edits.json",                    
+    "unit_symbol_lookup": "dev/parsers/update_lookups/patches/unit_symbol_lookup_manual_edits.json",
+    "unit_dimensions_and_kinds": "dev/parsers/update_lookups/patches/unit_dimensions_and_kinds_manual_edits.json",
+    "unit_quantity_kinds": "dev/parsers/update_lookups/patches/unit_quantity_kinds_manual_edits.json",
 }
 check_for_wrong_labels = True
 check_for_wrong_cent_units = True

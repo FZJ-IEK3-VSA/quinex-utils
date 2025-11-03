@@ -3,7 +3,9 @@
 # NLP Utilities for Processing Quantities, Numbers, and Units
 A collection of utilities for natural language processing (NLP) tasks that involve quantities, numbers, and units.
 
+
 ## Features
+
 * **Rule-based quantity parser**
     * Various writing styles of quantities
     * Single quantities, lists, intervals, ratios, and multidimensional quantities
@@ -35,9 +37,10 @@ for mamy different ways numbers can be expressed in:
 
 ## Installation
 
-Create an environment and install the package
+Create and activate a virtual environment.<br>
+Then, install the package via pip and download the spaCy pipeline.
 ```bash
-pip install git+https://github.com/FZJ-IEK3-VSA/quinex-utils.git
+pip install quinex-utils
 python3 -m spacy download en_core_web_md
 ```
 

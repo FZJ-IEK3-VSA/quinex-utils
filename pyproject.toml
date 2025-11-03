@@ -1,12 +1,13 @@
 [project]
-name = "quinex_utils"
+name = "quinex-utils"
 description = "Utils for processing natural language expressions of quantities including efficient rule-based quantity and unit parsers."
 version = "0.0.0"
 authors = [
     {name = "Jan Göpfert"},
 ]
 readme = { file = "README.md", content-type = "text/markdown" }
-license = {text = "MIT"}
+license = "MIT"
+license-files = ["LICENSE"]
 requires-python = ">=3.9"
 classifiers = [
     "Development Status :: 2 - Pre-Alpha",
@@ -37,17 +38,22 @@ keywords = [
 dependencies = [
     "setuptools",
     "pip",
-    "thefuzz[speedup]",    
+    "thefuzz[speedup]",
     "numpy==1.24.3",
     "spacy==3.7.5",
+    "text-processing-utils==0.0.0",
 ]
+
+[project.urls]
+Homepage = "https://github.com/FZJ-IEK3-VSA/quinex-utils"
+Issues = "https://github.com/FZJ-IEK3-VSA/quinex-utils/issues"
 
 [project.optional-dependencies]
 optional = [
     "cucopy",
     "numexpr==2.8.4"
 ]
-development =  [
+dev =  [
     "pytest", 
     "rdflib==6.3.1",
     "tqdm==4.65.0",

@@ -5,6 +5,7 @@
 **/.ipynb_checkpoints
 build/*
 logs/*
+dist/*
 .snakemake/*
 notes.md
 todo.md
